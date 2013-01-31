@@ -1,4 +1,4 @@
-## fluentd and MongDB by ruby gem 
+## fluentd and MongDB by Ruby Gem 
 
 #install
 - gem install bundle
