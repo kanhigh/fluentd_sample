@@ -1,10 +1,10 @@
-## fluentd by ruby gem and MongDB
+## fluentd and MongDB by ruby gem 
 
 #install
 - gem install bundle
 - bundle install
 
-#path conf file
+#path to conf file
 - ./fluentd/fluentd.conf
 
 #config
